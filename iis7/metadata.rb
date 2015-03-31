@@ -1,3 +1,4 @@
+name			 "iis7"
 maintainer       "Smartrak"
 maintainer_email "dave@smartrak.co.nz"
 license          "All rights reserved"
